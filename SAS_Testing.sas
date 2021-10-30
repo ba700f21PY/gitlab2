@@ -7,3 +7,7 @@ run;
 /*Check the products installed*/
 Proc setinit;
 Run;
+
+/*Check the products installed*/
+Proc setinit;
+Run;
